@@ -3,7 +3,7 @@ logo: /assets/img/Picture2.jpg
 
 <br>
 
-description: Projects and Education
+#description: Projects and Education
 show_downloads: true
 theme: jekyll-theme-minimal
 
