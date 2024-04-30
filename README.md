@@ -1,2 +1,16 @@
-# Projects
-In this repository, you will find my individual data science projects as well as group projects done while at school. The projects were done in either R or Python.
+## Data Scientist
+
+### Education
+  + Harvard University, Extension School
+    - Data Science Certificate
+  + Boston University, Graduate School of Arts and Sciences
+    - Statistical Practice, MS.
+
+### Individual Projects
+
+  + Hurricane Maps and Tracks
+  + Raspberry Project
+  + Simple Linear Regression
+  + Multiple Linear Regression: First and Second Order
+
+
