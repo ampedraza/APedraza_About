@@ -1,6 +1,6 @@
 title: Alison Pedraza
 logo: /assets/img/Picture2.jpg
 description: Projects and Education
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
 
