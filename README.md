@@ -1,18 +1,17 @@
 ## Data Scientist
 
-**Technical Skills: Python, R, SQL
+**Technical Skills: Python, R, SQL**
 
-**Interfaces and Libraries: R Markdown, Jupyter Notebook, Scikit-learn, pandas, NumPy, ggplot2
+**Interfaces and Libraries: R Markdown, Jupyter Notebook, Scikit-learn, pandas, NumPy, ggplot2**
 
 ### Education
-  + Harvard University, Extension School
-    - Data Science Certificate
-  + Boston University, Graduate School of Arts and Sciences
-    - Statistical Practice, MS.
+  + Data Science Graduate Certificate, Harvard University, Extension School
+    ***
+    
+  + Statistical Practice, MS.,  Boston University, Graduate School of Arts and Sciences
+    ***
 
 ### Projects
-
-*Worked on individually for myself or for school*
 
   + Hurricane Maps and Tracks
   + Raspberry Project
