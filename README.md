@@ -7,10 +7,13 @@
 ### Education
 <hr>
 
-+ Data Science Graduate Certificate, Harvard University Extension School
++ Harvard University Extension School
+  - Data Science Graduate Certificate 
     
-+ Statistical Practice, MS., Boston University, GSAS
++ Boston University
+  - Statistical Practice, MS. 
 
+<br/>
 
 ### Projects
 <hr>
