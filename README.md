@@ -3,13 +3,11 @@
 **Technical Skills: Python, R, SQL, R Markdown, Jupyter Notebook**
 
 ### Education
-  +  <u>Harvard University, Extension School</u>
-    - Data Science Graduate Certificate
-
++  <u>Data Science Graduate Certificate, Harvard University Extension School</u>
     
-  + Boston University, Graduate School of Arts and Sciences
-    - Statistical Practice, MS.,  
-    ***
++ Boston University, Graduate School of Arts and Sciences
+<u> - Statistical Practice, MS.</u>
+
 
 ### Projects
 
