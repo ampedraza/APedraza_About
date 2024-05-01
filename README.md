@@ -14,7 +14,7 @@
 ### Projects
 
   + Hurricane Maps and Tracks
-    - (https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
+    - [GitHub Pages] https://ampedraza.github.io/Hurricane-Maps-and-Tracks/
   + Raspberry Project
   + Simple Linear Regression
   + Multiple Linear Regression: First and Second Order
