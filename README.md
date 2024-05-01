@@ -7,16 +7,17 @@
 ### Education
 <hr>
 
-+ Data Science Graduate Certificate | Harvard University Extension School
++ Data Science Graduate Certificate, Harvard University Extension School
     
-+ Statistical Practice, MS. | Boston University, GSAS
++ Statistical Practice, MS., Boston University, GSAS
 
 
 ### Projects
+<hr>
 
   + Hurricane Maps and Tracks
 <br/>
-   [GitHub Pages](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
+   [github page](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
 
   + Raspberry Project
   + Simple Linear Regression
