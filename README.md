@@ -8,7 +8,7 @@
 
 ### Individual Projects
 
-  - Projects worked on individually for school or for myself.
+**Projects worked on individually for school or for myself.**
 
   + Hurricane Maps and Tracks
   + Raspberry Project
