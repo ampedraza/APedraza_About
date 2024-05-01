@@ -8,6 +8,8 @@
 
 ### Individual Projects
 
+  - Projects worked on individually for school or for myself.
+
   + Hurricane Maps and Tracks
   + Raspberry Project
   + Simple Linear Regression
