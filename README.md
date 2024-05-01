@@ -1,4 +1,6 @@
 ## Data Scientist
+**Technical Skills: Python, R, SQL
+**Interfaces and Libraries: R Markdown, Jupyter Notebook, Scikit-learn, pandas, NumPy, ggplot2
 
 ### Education
   + Harvard University, Extension School
