@@ -6,9 +6,9 @@
   + Boston University, Graduate School of Arts and Sciences
     - Statistical Practice, MS.
 
-### Individual Projects
+### Repositories
 
-**Projects worked on individually for school or for myself.**
+*Projects worked on individually for myself or for school*
 
   + Hurricane Maps and Tracks
   + Raspberry Project
