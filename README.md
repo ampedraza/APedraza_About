@@ -1,5 +1,7 @@
 ## Data Scientist
+
 **Technical Skills: Python, R, SQL
+
 **Interfaces and Libraries: R Markdown, Jupyter Notebook, Scikit-learn, pandas, NumPy, ggplot2
 
 ### Education
@@ -8,9 +10,9 @@
   + Boston University, Graduate School of Arts and Sciences
     - Statistical Practice, MS.
 
-### Repositories
+### Projects
 
-*Projects worked on individually for myself or for school*
+*Worked on individually for myself or for school*
 
   + Hurricane Maps and Tracks
   + Raspberry Project
