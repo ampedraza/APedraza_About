@@ -40,7 +40,7 @@
      - Using voice data to predict Parkinson's disease in patients.
      - Various models explored:
         + KNN, SVM, Logistic Regression
-     - Repository: [Python Predicting Parkinsons](https://github.com/ampedraza/Python-Predicting-Parkinsons/tree/main)
+     - Repository: [Python Predicting Parkinsons](https://github.com/ampedraza/Parkinsons-Disease)
         
   <br/>
   
