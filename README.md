@@ -6,8 +6,7 @@
 
 + <font size="1">Data Science Graduate Certificate, Harvard University Extension School</font>
 
-+ Boston University
-  - Statistical Practice, MS. 
++ Statistical Practice, MS., | Boston University
 
 <br/>
 
