@@ -34,8 +34,7 @@
         - Model to predict total Covid deaths in a county
         - [Multiple LR github pages](https://ampedraza.github.io/Raspberry/)
    
-
-  ### LinkedIn
+  #### LinkedIn
   <hr>
   
   Click here for LinkedIn profile: [Apedraza](www.linkedin.com/in/alison-pedraza)
