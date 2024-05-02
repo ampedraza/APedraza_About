@@ -24,15 +24,13 @@
     - [Raspberry github page](https://ampedraza.github.io/Raspberry/)
     
   + Linear Regression
-    - Covid data (from 2020) and CDI data sets used for Regression
+    - Covid data and CDI data sets.
     - Data sets joined, cleaned, and processed.
-    - Exploratory Data Analysis done.
-    - Maps showing different data points.
+      + Simple Linear Regression
+        - EDA, Maps, regression assumptions checked
       + Multiple Linear Regression: First and Second Order
-        - Regression model used to predict total number of Covid deaths in a county.
-    - <hr>Simple linear regression</hr> on Covid data and chronic disease indicator data.
-      + Purpose to create a model to determine percent smokers.
-      + Joining, cleaning, and processing of datasets.
-      + EDA on final dataset.
+        - Model to predict total Covid deaths in a county
+        - [Multiple LR github page](https://ampedraza.github.io/Raspberry/)
+   
 
 
