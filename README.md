@@ -33,4 +33,5 @@
         - [Multiple LR github pages](https://ampedraza.github.io/Raspberry/)
    
 
+### LinkedIn:[LinkedIn Profile](www.linkedin.com/in/alison-pedraza)
 
