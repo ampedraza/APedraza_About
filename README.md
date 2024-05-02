@@ -4,11 +4,13 @@
 
 ### Education
 <hr>
+
 + Data Science Graduate Certificate|Harvard University E.S.
 
 +  MS., Statistical Practice | Boston University, GSAS
 
 <br/>
+
 ### Projects
 <hr>
 
@@ -35,5 +37,6 @@
 
   ### LinkedIn
   <hr>
+  
   Click here for LinkedIn profile: [Apedraza](www.linkedin.com/in/alison-pedraza)
 
