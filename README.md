@@ -13,10 +13,10 @@
 <hr>
 
   + Hurricane Maps and Tracks
-      -  Rainfall data from the hurricanes Floys, Allison, and Irene.
+      -  Rainfall data from hurricanes Floyd, Allison, and Irene.
       -  Maps of hurricane tracks and total rainfall from the events.
       -  Exploratory data analysis on rainfall data.
-      - [Hurr Tracks github page](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
+      - [Hurricane github page](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
 
   + Raspberry Project
     - EDA on the kinds and quantity of chemicals used to grow raspberries.
@@ -24,7 +24,13 @@
     - [Raspberry github page](https://ampedraza.github.io/Raspberry/)
     
   + Linear Regression
-    - Simple linear regression on Covid data and chronic disease indicator data.
+    - Covid data (from 2020) and CDI data sets used for Regression
+    - Data sets joined, cleaned, and processed.
+    - Exploratory Data Analysis done.
+    - Maps showing different data points.
+      + Multiple Linear Regression: First and Second Order
+        - Regression model used to predict total number of Covid deaths in a county.
+    - <hr>Simple linear regression</hr> on Covid data and chronic disease indicator data.
       + Purpose to create a model to determine percent smokers.
       + Joining, cleaning, and processing of datasets.
       + EDA on final dataset.
