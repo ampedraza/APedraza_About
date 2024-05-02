@@ -33,6 +33,11 @@
       + Multiple Linear Regression: First and Second Order
         - Model to predict total Covid deaths in a county
         - [Multiple LR github pages](https://ampedraza.github.io/Raspberry/)
+       
+    + Parkinson's Disease
+      - 
+      - [Python Predicting Parkinsons](https://github.com/ampedraza/Python-Predicting-Parkinsons/tree/main)
+        
   <br/>
   
   **LinkedIn**
