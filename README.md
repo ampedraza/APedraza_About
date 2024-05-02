@@ -13,17 +13,20 @@
 <hr>
 
   + Hurricane Maps and Tracks
+      -  R language
       -  Rainfall data from hurricanes Floyd, Allison, and Irene.
       -  Maps of hurricane tracks and total rainfall from the events.
       -  Exploratory data analysis on rainfall data.
       - [Hurricane GitHub pages](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
 
   + Raspberry Project
+    - R language
     - EDA on the kinds and quantity of chemicals used to grow raspberries.
     - Raspberry data from California, Washington, and Oregon.
     - [Raspberry GitHub pages](https://ampedraza.github.io/Raspberry/)
     
   + Linear Regression
+    - R language
     - Covid data and CDI data sets.
     - Data sets joined, cleaned, and processed.
       + Simple Linear Regression
@@ -33,10 +36,11 @@
         - [Multiple LR GitHub pages](https://ampedraza.github.io/Raspberry/)
        
   + Parkinson's Disease
-      - Using voice data to predict Parkinson's disease in patients.
-      - Various models explored:
+     - Python language
+     - Using voice data to predict Parkinson's disease in patients.
+     - Various models explored:
         + KNN, SVM, Logistic Regression
-      - Repository: [Python Predicting Parkinsons](https://github.com/ampedraza/Python-Predicting-Parkinsons/tree/main)
+     - Repository: [Python Predicting Parkinsons](https://github.com/ampedraza/Python-Predicting-Parkinsons/tree/main)
         
   <br/>
   
