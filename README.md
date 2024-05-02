@@ -15,8 +15,10 @@
 <hr>
 
   + Hurricane Maps and Tracks
-      -  
-   [github page](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
+      -  Rainfall data from the hurricanes Floys, Allison, and Irene.
+      -  Maps of hurricane tracks and total rainfall from the events.
+      -  Exploratory data analysis on rainfall data.
+      - [github page](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
 
   + Raspberry Project
       - 
