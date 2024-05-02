@@ -4,7 +4,7 @@
 ### Education
 <hr>
 
-+ <font size="2">Data Science Graduate Certificate, Harvard University Extension School</font>
++ <font size="1">Data Science Graduate Certificate, Harvard University Extension School</font>
 
 + Boston University
   - Statistical Practice, MS. 
@@ -14,10 +14,13 @@
 ### Projects
 <hr>
 
-  + Hurricane Maps and Tracks, 
+  + Hurricane Maps and Tracks
+      -  
    [github page](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
 
-  + Raspberry Project  [github page](https://ampedraza.github.io/Raspberry/)
+  + Raspberry Project
+      - 
+    [github page](https://ampedraza.github.io/Raspberry/)
     
   + Simple Linear Regression
   + Multiple Linear Regression: First and Second Order
