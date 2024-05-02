@@ -36,6 +36,7 @@
   <br/>
   
   **LinkedIn**
+<hr>
 
   Click here for LinkedIn profile: [Apedraza](www.linkedin.com/in/alison-pedraza)
 
