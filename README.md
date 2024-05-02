@@ -15,12 +15,12 @@
       -  Rainfall data from hurricanes Floyd, Allison, and Irene.
       -  Maps of hurricane tracks and total rainfall from the events.
       -  Exploratory data analysis on rainfall data.
-      - [Hurricane github page](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
+      - [Hurricane github pages](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
 
   + Raspberry Project
     - EDA on the kinds and quantity of chemicals used to grow raspberries.
     - Raspberry data from California, Washington, and Oregon.
-    - [Raspberry github page](https://ampedraza.github.io/Raspberry/)
+    - [Raspberry github pages](https://ampedraza.github.io/Raspberry/)
     
   + Linear Regression
     - Covid data and CDI data sets.
@@ -29,7 +29,7 @@
         - EDA, Maps, regression assumptions checked
       + Multiple Linear Regression: First and Second Order
         - Model to predict total Covid deaths in a county
-        - [Multiple LR github page](https://ampedraza.github.io/Raspberry/)
+        - [Multiple LR github pages](https://ampedraza.github.io/Raspberry/)
    
 
 
