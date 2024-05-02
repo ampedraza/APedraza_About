@@ -33,8 +33,9 @@
       + Multiple Linear Regression: First and Second Order
         - Model to predict total Covid deaths in a county
         - [Multiple LR github pages](https://ampedraza.github.io/Raspberry/)
-   
-  #### LinkedIn
+  <br/>
+  
+  ### LinkedIn
   <hr>
   
   Click here for LinkedIn profile: [Apedraza](www.linkedin.com/in/alison-pedraza)
