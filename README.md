@@ -4,7 +4,7 @@
 ### Education
 + Data Science Graduate Certificate|Harvard University E.S.
 
-+ Statistical Practice, MS., | Boston University, GSAS
++  MS., Statistical Practice | Boston University, GSAS
 
 <br/>
 
