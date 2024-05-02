@@ -33,7 +33,7 @@
         - EDA, Maps, regression assumptions checked
       + Multiple Linear Regression: First and Second Order
         - Model to predict total Covid deaths in a county
-        - [Multiple LR GitHub pages](https://ampedraza.github.io/Raspberry/)
+        - [Multiple LR GitHub pages](https://ampedraza.github.io/Linear-Regression/)
        
   + Parkinson's Disease
      - Python language
