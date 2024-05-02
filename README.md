@@ -1,13 +1,10 @@
 ## Data Scientist
-
 **Technical Skills: Python, R, SQL, R Markdown, Jupyter Notebook**
-
-<br/>
 
 ### Education
 <hr>
 
-+ Harvard University Extension School
++ <font size="2">Harvard University Extension School</font>
   - Data Science Graduate Certificate 
     
 + Boston University
