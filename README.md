@@ -2,6 +2,7 @@
 **Technical Skills: Python, R, SQL, R Markdown, Jupyter Notebook**
 <br/>
 ### Education
+<hr>
 + Data Science Graduate Certificate|Harvard University E.S.
 
 +  MS., Statistical Practice | Boston University, GSAS
