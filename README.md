@@ -4,7 +4,7 @@
 ### Education
 <hr>
 
-+ <font size="1">Data Science Graduate Certificate, Harvard University Extension School</font>
++ Data Science Graduate Certificate, | Harvard University Extension School
 
 + Statistical Practice, MS., | Boston University
 
@@ -20,8 +20,9 @@
       - [github page](https://ampedraza.github.io/Hurricane-Maps-and-Tracks/)
 
   + Raspberry Project
-      - 
-    [github page](https://ampedraza.github.io/Raspberry/)
+    - EDA on the kinds and quantity of chemicals used to grow raspberries.
+    - Raspberry data from California, Washington, and Oregon growers.
+    - [github page](https://ampedraza.github.io/Raspberry/)
     
   + Simple Linear Regression
   + Multiple Linear Regression: First and Second Order
