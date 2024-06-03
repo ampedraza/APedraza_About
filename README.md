@@ -59,7 +59,7 @@
             - Split, train, and test model 50 times, calculate MSE for each run.
                 + Calculate mean and standard deviation of the 50 MSE values
                   
-     - Repository: [Python Predicting Parkinsons](https://github.com/ampedraza/Parkinsons-Disease)
+     - Repository: [Python Predicting Parkinsons](https://github.com/ampedraza/Regression-Model-in-Keras)
         
   <br/>
   
