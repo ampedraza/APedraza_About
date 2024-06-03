@@ -47,17 +47,15 @@
      - Keras, Numpy, and Pandas Libraries used.
      - Parts of the assignment:
         + Part A: Build a base model neural network with 1 hidden layer.
-            - Split, train, and test model 50 times, calculate MSE for each run.
-                + Calculate mean and standard deviation of the 50 MSE values
         + Part B: Use the base model with normalized data.
-            - Split, train, and test model 50 times, calculate MSE for each run.
-                + Calculate mean and standard deviation of the 50 MSE values
         + Part C: Use 100 Epochs.
-            - Split, train, and test model 50 times, calculate MSE for each run.
-                + Calculate mean and standard deviation of the 50 MSE values
         + Part D: Use 3 hidden layers.
-            - Split, train, and test model 50 times, calculate MSE for each run.
-                + Calculate mean and standard deviation of the 50 MSE values
+    - For each part:
+        +  data was split, trained, and tested on model 50 runs
+        +  Calculated MSE for each run.
+        +  Calculated mean and standard deviation of the 50 MSE values.
+    
+       
                   
      - Repository: [Python Predicting Parkinsons](https://github.com/ampedraza/Regression-Model-in-Keras)
         
