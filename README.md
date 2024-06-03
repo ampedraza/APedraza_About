@@ -41,6 +41,25 @@
      - Various models explored:
         + KNN, SVM, Logistic Regression
      - Repository: [Python Predicting Parkinsons](https://github.com/ampedraza/Parkinsons-Disease)
+
+  + Deep Learning Regression Model with Keras 
+     - Assignment from Coursera IBM course: Introduction to Deep Learning and Neural Networks with Keras
+     - Keras, Numpy, and Pandas Libraries used.
+     - Parts of the assignment:
+        + Part A: Build a base model neural network with 1 hidden layer.
+            - Split, train, and test model 50 times, calculate MSE for each run.
+                + Calculate mean and standard deviation of the 50 MSE values
+        + Part B: Use the base model with normalized data.
+            - Split, train, and test model 50 times, calculate MSE for each run.
+                + Calculate mean and standard deviation of the 50 MSE values
+        + Part C: Use 100 Epochs.
+            - Split, train, and test model 50 times, calculate MSE for each run.
+                + Calculate mean and standard deviation of the 50 MSE values
+        + Part D: Use 3 hidden layers.
+            - Split, train, and test model 50 times, calculate MSE for each run.
+                + Calculate mean and standard deviation of the 50 MSE values
+                  
+     - Repository: [Python Predicting Parkinsons](https://github.com/ampedraza/Parkinsons-Disease)
         
   <br/>
   
