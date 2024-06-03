@@ -1,5 +1,5 @@
 ## Data Scientist
-**Technical Skills: Python, R, SQL, R Markdown, Jupyter Notebook**
+**Technical Skills: Python, R, SQL, Keras, R Markdown, Jupyter Notebook**
 
 ### Education
 
